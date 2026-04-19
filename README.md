@@ -34,7 +34,7 @@ The loop predictor in total uses 256 * 52 = **13Kbits**
 
 ## Instructions to run
 
-Depending on the timeline you are living, you might see a different versions of the [ChampSim](https://github.com/ChampSim/ChampSim/) repository. I've updated the project to the latest version.
+You can find the [ChampSim](https://github.com/ChampSim/ChampSim/) repository here. I've updated the project to the latest version.
 
 You can find more information about setting the configurations inside the `ChampSim` directory (README from the official ChampSim community). In the `ChampSim/champsim_config.json` file, change the branch predictor to the one you want to test
 
